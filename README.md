@@ -1,7 +1,7 @@
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=thetanmaygupta)](https://github.com/thetanmaygupta/github-readme-stats?theme=merko)
 
-<h2>Hi there <img src="👋" width="30px" height="30px">, I am Tanmay Gupta!</h2>
+<h2>Hi there 👋 I am Tanmay Gupta!</h2>
 
 ### I Am 22 Year Old Self-Learned Developer From India <br>
 ● Currently a student of MBA Programme And My Electives Are Marketing & Information Technology <br>
