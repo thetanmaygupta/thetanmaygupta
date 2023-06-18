@@ -1,6 +1,3 @@
-## Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=thetanmaygupta)](https://github.com/thetanmaygupta/github-readme-stats?theme=merko)
-
 <h2>Hi There 👋 I am Tanmay Gupta!</h2>
 
 ### I Am 22 Year Old Self-Learned Developer From India <br>
