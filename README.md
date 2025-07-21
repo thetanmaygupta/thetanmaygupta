@@ -1,6 +1,6 @@
 <h2>Hi There 👋 I am Tanmay Gupta!</h2>
 
-### I Am 24 Year Old Self-Learned Developer From India <br>
+### I Am 25 Year Old Self-Learned Developer From India <br>
 ● MBA Programme Post Graduate And My Electives Were Marketing & Information Technology <br>
 ● Languages I know are Java And Kotlin Still Learning & Figuring Out New Things <br>
 ● I’m currently aiming to master Java And Kotlin <br>
@@ -12,11 +12,7 @@
 ![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
 <br>
 
-## How To Reach Me
-[<img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" width="32">](http://t.me/thetanmaygupta)
-[<img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="32">](mailto:sardulgupta@gmail.com)
-[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32">](https://twitter.com/thetanmaygupta)
-[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32">](https://www.instagram.com/thetanmaygupta)
+
 <br>
 
 ## Support my work
