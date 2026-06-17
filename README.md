@@ -1,21 +1,48 @@
-<h2>Hi There 👋 I am Tanmay Gupta!</h2>
+<h1 align="center">Hi There 👋 I'm Tanmay Gupta!</h1>
 
-### I Am 25 Year Old Self-Learned Developer From India <br>
-● MBA Programme Post Graduate And My Electives Were Marketing & Information Technology <br>
-● Languages I know are Java And Kotlin Still Learning & Figuring Out New Things <br>
-● I’m currently aiming to master Java And Kotlin <br>
+<p align="center">
+   Self-Taught Developer & IT Professional from India
+</p>
 
-## 💻 What I Know
-![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
-![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-![Kotlin](https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg)
-<br>
+<p align="center">
+  💼 IT Professional • 🤖 Android Enthusiast • 🎬 Movie Enthusiast & DC Fan • ✍️ Storyteller
+</p>
 
+<p align="center">
+  I enjoy exploring technology, cinema,and life through both code and content.<br>
+  Known online as <strong>TheTanmayGupta</strong>.
+</p>
 
-<br>
+<p align="center">
+🌐 Connect with Me
 
-## Support my work
-<a href="https://www.buymeacoffee.com/thetanmaygupta" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<p align="center">
+  <a href="https://github.com/thetanmaygupta">💻 GitHub</a> •
+  <a href="https://xdaforums.com/m/thetanmaygupta">🤖 XDA Forums</a> •
+  <a href="https://letterboxd.com/thetanmaygupta">🎬 Letterboxd</a> •
+  <a href="https://www.imdb.com/user/p.rwjtb7jpkrjne5dknqwcykfzd4">🎥 IMDb</a>
+</p>
 
-![GitHub Sponsors](https://img.shields.io/github/sponsors/thetanmaygupta?label=GitHub%20sponsors&style=for-the-badge)
+<p align="center">
+  <a href="https://www.instagram.com/thetanmaygupta">📸 Instagram</a> •
+  <a href="https://www.vero.co/thetanmaygupta">🎞️ VERO</a> •
+  <a href="https://about.me/thetanmaygupta">🌐 About.me</a>
+</p>
+  
+
+<p align="center">    
+💻 What I Know
+
+<p align="center">
+🐧 Linux • 🔀 Git • ☕ Java • 🟣 Kotlin • 🤖 Android • ⚙️ Open Source
+
+  
+<h3 align="center">🔍 About TheTanmayGupta</h3>
+
+<p align="center">
+TheTanmayGupta is the online identity of Tanmay Gupta, an IT Professional from India with interests in Android development, open-source technology, cinema, storytelling and DC Comics.
+</p>
+
+<p align="center">
+  © 2026 TheTanmayGupta • Technology • Android • Cinema • Storytelling
+</p>
