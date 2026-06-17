@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/thetanmaygupta">💻 GitHub</a> •
-  <a href="https://xdaforums.com/m/thetanmaygupta">🤖 XDA Forums</a> •
+  <a href="https://xdaforums.com/m/thetanmaygupta.7937159/">🤖 XDA Forums</a> •
   <a href="https://letterboxd.com/thetanmaygupta">🎬 Letterboxd</a> •
   <a href="https://www.imdb.com/user/p.rwjtb7jpkrjne5dknqwcykfzd4">🎥 IMDb</a>
 </p>
