@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white"/>
 </a>
 
-<a href="https://forum.xda-developers.com/m/thetanmaygupta.">
+<a href="https://forum.xda-developers.com/m/thetanmaygupta.7937159">
 <img src="https://img.shields.io/badge/XDA-Developers-orange?style=for-the-badge"/>
 </a>
 
