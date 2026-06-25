@@ -25,7 +25,12 @@
 
 <p align="center">
   <a href="https://www.instagram.com/thetanmaygupta">📸 Instagram</a> •
+
+<p align="center">
+  <a    href="https://youtube.com/@thetanmayguptayt"> ▶️ YouTube</a> •
+   
   <a href="https://www.vero.co/thetanmaygupta">🎞️ VERO</a> •
+   
   <a href="https://about.me/thetanmaygupta">🌐 About.me</a>
 </p>
   
