@@ -13,27 +13,47 @@
   Known online as <strong>TheTanmayGupta</strong>.
 </p>
 
-<p align="center">
-🌐 Connect with Me
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://github.com/thetanmaygupta">💻 GitHub</a> •
-  <a href="https://xdaforums.com/m/thetanmaygupta.7937159/">🤖 XDA Forums</a> •
-  <a href="https://letterboxd.com/thetanmaygupta">🎬 Letterboxd</a> •
-  <a href="https://www.imdb.com/user/p.rwjtb7jpkrjne5dknqwcykfzd4">🎥 IMDb</a>
+<a href="https://github.com/thetanmaygupta">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@thetanmayguptaYT">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://x.com/thetanmaygupta">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/thetanmaygupta">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/thetanmaygupta">📸 Instagram</a> •
+<a href="https://www.imdb.com/user/p.rwjtb7jpkrjne5dknqwcykfzd4">
+<img src="https://img.shields.io/badge/IMDb-F5C518?style=for-the-badge&logo=imdb&logoColor=black"/>
+</a>
 
-<p align="center">
-  <a    href="https://youtube.com/@thetanmayguptayt"> ▶️ YouTube</a> •
-   
-  <a href="https://www.vero.co/thetanmaygupta">🎞️ VERO</a> •
-   
-  <a href="https://about.me/thetanmaygupta">🌐 About.me</a>
+<a href="https://letterboxd.com/thetanmaygupta/">
+<img src="https://img.shields.io/badge/Letterboxd-202830?style=for-the-badge&logo=letterboxd&logoColor=white"/>
+</a>
+
+<a href="https://forum.xda-developers.com/m/thetanmaygupta.">
+<img src="https://img.shields.io/badge/XDA-Developers-orange?style=for-the-badge"/>
+</a>
+
+<a href="https://about.me/thetanmaygupta">
+<img src="https://img.shields.io/badge/About.me-0066CC?style=for-the-badge"/>
+</a>
+
+<a href="https://vero.co/thetanmaygupta">
+<img src="https://img.shields.io/badge/VERO-000000?style=for-the-badge"/>
+</a>
 </p>
-  
 
 <p align="center">    
 💻 What I Know
